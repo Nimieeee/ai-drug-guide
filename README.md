@@ -2,6 +2,8 @@
 
 Four free notebooks from AiSynth Labs for the "Get started in AI drug discovery" guide by Toluwanimi Odunewu ([@toluwanimiso](https://linktr.ee/ToluwanimiO)).
 
+**Download the guide (PDF, 24 pages):** [AI_DRUG_GUIDE.pdf](https://github.com/Nimieeee/ai-drug-guide/raw/main/AI_DRUG_GUIDE.pdf)
+
 | Notebook | Projects | Open in Colab |
 |---|---|---|
 | 1. Python and data | 3 to 6 | [open](https://colab.research.google.com/github/Nimieeee/ai-drug-guide/blob/main/notebooks/ai_drug_nb1_python_and_data.ipynb) |
